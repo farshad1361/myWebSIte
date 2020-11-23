@@ -1,0 +1,3 @@
+define(function () {
+return ["topics/con1.html@@@Cork Institute of Technology@@@CIT has multiple different faculties and departments. The computer science department in CIT is the largest one among others in the country. Figure 1 . CIT Campus...","topics/con2.html@@@Cork City@@@Cork is the second biggest city in republic of Ireland...","topics/con3.html@@@Douglas@@@Douglas is one of the area on the east part of Cork...","topics/con4.html@@@Computer Science Department@@@CS department is one of the largest CS apartments in the country. CS department has a large number of different MSc and BS fields study..."];
+});

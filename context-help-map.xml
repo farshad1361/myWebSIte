@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="con1" path="topics/con1.html"/>
+   <appContext helpID="con4" path="topics/con4.html"/>
+   <appContext helpID="con2" path="topics/con2.html"/>
+   <appContext helpID="con3" path="topics/con3.html"/>
+</map>
